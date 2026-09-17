@@ -1,0 +1,8 @@
+langchain-core
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-openai
+sentence-transformers
+chromadb
+opencc-python-reimplemented
